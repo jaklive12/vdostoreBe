@@ -1,0 +1,2 @@
+# vdostoreBe
+test for go 
